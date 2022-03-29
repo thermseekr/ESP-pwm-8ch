@@ -5,7 +5,7 @@
   (paper "A3")
 
   (title_block
-    (title "ESP 6x PWM Module")
+    (title "ESP 8x PWM Module")
     (date "2022-03-26")
     (rev "2")
   )
