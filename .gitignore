@@ -30,3 +30,6 @@ fp-info-cache
 
 # Mac OS
 .DS_Store
+
+# Kicad 6 backups
+*.zip
