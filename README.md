@@ -1,6 +1,6 @@
 # ESP-pwm-8ch
  
-ESP32 based board with 8x PWM output channels.
+ESP8266/ESP32 based board with 8x PWM output channels.
 
 This board is designed to be driven by an Olimex ESP32-POE, ESP32-POE-ISO or Wemos D1 Mini modules running Tasmota.
 
