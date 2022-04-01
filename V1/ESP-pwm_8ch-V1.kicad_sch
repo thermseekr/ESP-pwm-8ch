@@ -2665,6 +2665,11 @@
     (uuid ff23279b-e95d-49f3-ba91-80d78ba8da9d)
   )
 
+  (text "ESP8266\nGPIO33 (13) -> OUT 1\nGPIO32 (14) -> OUT 2\nGPIO16 (15) -> OUT 3\nGPIO15 (16) -> OUT 4\n"
+    (at 82.55 266.7 0)
+    (effects (font (size 2.5 2.5)) (justify left bottom))
+    (uuid 91e47e56-412d-4dc9-b859-0485c503908a)
+  )
   (text "ESP32\nGPIO33 (13) -> OUT 1\nGPIO32 (14) -> OUT 2\nGPIO16 (15) -> OUT 3\nGPIO15 (16) -> OUT 4\nGPIO13 (11) -> OUT 5\nGPIO14 (12) -> OUT 6\nGPIO4  (09) -> OUT 7\nGPIO5  (10) -> OUT 8"
     (at 20.32 278.13 0)
     (effects (font (size 2.5 2.5)) (justify left bottom))
