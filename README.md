@@ -10,4 +10,4 @@ When using the Wemos D1 Mini the maximum number of outputs is 4, and expect some
 
 The design considers that the board will be mounted on a PCB DIN rail holder. The dimensions consider the holders offered by the Brazilian manufacturer Metaltex, check [here](https://www.metaltex.com.br/produtos/componentes/suportes/sp7-suporte-para-montagem-de-placa-de-circuito-impresso-em-trilho-din) for details.
 
-![alt text](https://github.com/thermseekr/ESP-pwm-8ch/blob/main/V1/ESP-pwm_8ch-V1.png "ESP-pwm-8ch")
+![alt text](https://github.com/thermseekr/ESP-pwm-8ch/blob/main/V1/ESP-pwm-8ch-V1.png "ESP-pwm-8ch")
