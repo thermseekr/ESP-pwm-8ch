@@ -6569,7 +6569,7 @@
   (gr_text "12VDC" (at 72.39 129.54) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-0000614115c0)
     (effects (font (size 1.5 1) (thickness 0.25)))
   )
-  (gr_text "8x PWM OUT 12VDC" (at 95.25 127) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-000061413fc1)
+  (gr_text "8x PWM OUT 12/24VDC" (at 95.25 127) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-000061413fc1)
     (effects (font (size 1.8 1.5) (thickness 0.25)))
   )
   (gr_text "12V" (at 74.93 75.565) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-00006142fdb1)
