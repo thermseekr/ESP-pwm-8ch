@@ -28,8 +28,8 @@ fp-info-cache
 *.xml
 *.csv
 
-# Mac OS
+# Mac OS .DS_Store
 .DS_Store
 
-# Kicad 6 backups
+# Backups
 *.zip
